@@ -1,1 +1,1 @@
-# ricky_morty
+# rick_morty
